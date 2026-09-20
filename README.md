@@ -169,7 +169,7 @@ Il report di sintesi manageriale è disponibile in [`docs/Medical_Platform_Execu
 
 ## Video di presentazione
 
-📺 [Guarda il video su YouTube](#) — *link da inserire*
+📺 [Guarda il video su YouTube](#) — <youtu.be/TkfvKTz7-CI>
 
 ## Limitazioni note
 
@@ -190,10 +190,6 @@ Il report di sintesi manageriale è disponibile in [`docs/Medical_Platform_Execu
 <linkedin.com/in/fabrizio-fagetti-7b5773154>
 <github.com/Fabriscious>
 
-## Video Presentazione Report
-
-**Un video di introduzione al report è diponibile al seguente link:**
-<youtu.be/TkfvKTz7-CI>
 
 ## Licenza
 
