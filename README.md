@@ -125,7 +125,7 @@ Medical-Platform-Report/
 
 1. Clona il repository e crea un ambiente virtuale:
    ```powershell
-   git clone https://github.com/<Fabriscious>/Medical-Platform-Report.git
+   git clone https://github.com/Fabriscious/Medical-Platform-Report.git
    cd Medical-Platform-Report
    python -m venv venv
    venv\Scripts\activate
