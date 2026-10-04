@@ -3,7 +3,7 @@ di Fabrizio Fagetti - Data Analyst
 
 Progetto end-to-end di Data Analysis su una piattaforma simulata di servizi medici nella Regione Lazio: generazione dati sintetici → modellazione relazionale → database MySQL → analisi SQL → dashboard Power BI.
 
-![Dashboard Preview](docs/assets/dashboard_preview.jpg)
+![Dashboard Preview](docs/assets/medical_dashboard_preview.png)
 *Dashboard Power BI — Executive Overview*
 
 ---
@@ -107,7 +107,7 @@ Medical-Platform-Report/
 └── docs/
     ├── Medical_Platform_Executive_Analysis.pdf
     └── assets/
-        └── dashboard_preview.jpg
+        └── medical_dashboard_preview.jpg
 ```
 
 > Nota: questa è la struttura proposta per coerenza con il progetto di riferimento — adattala liberamente se i tuoi file locali sono organizzati diversamente.
